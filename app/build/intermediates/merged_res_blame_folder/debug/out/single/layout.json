@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nishantsirohi/Desktop/objectapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_camera.xml",
+        "source": "/Users/nishantsirohi/Desktop/objectapp/app/src/main/res/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "/Users/nishantsirohi/Desktop/objectapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/info_bottom_sheet.xml",
+        "source": "/Users/nishantsirohi/Desktop/objectapp/app/src/main/res/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "/Users/nishantsirohi/Desktop/objectapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/nishantsirohi/Desktop/objectapp/app/src/main/res/layout/activity_main.xml"
+    }
+]
